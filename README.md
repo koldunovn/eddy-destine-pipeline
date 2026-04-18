@@ -101,7 +101,7 @@ git clone https://github.com/AntSimi/py-eddy-tracker.git
 Not on PyPI; clone alongside the repo:
 
 ```bash
-git clone https://github.com/destination-earth-digital-twins/fdb-xarray.git
+git clone https://github.com/koldunovn/fdb-xarray.git
 ```
 
 ---
@@ -112,7 +112,7 @@ git clone https://github.com/destination-earth-digital-twins/fdb-xarray.git
 # 1. Clone this repo + py-eddy-tracker + fdb-xarray side-by-side.
 git clone https://github.com/<you>/eddy-destine-pipeline.git
 git clone https://github.com/AntSimi/py-eddy-tracker.git
-git clone https://github.com/destination-earth-digital-twins/fdb-xarray.git
+git clone https://github.com/koldunovn/fdb-xarray.git
 
 # 2. Build the eddy env (user prefix — /opt/miniconda3/envs is usually
 #    root-owned on DestinE hosts).
